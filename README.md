@@ -18,7 +18,7 @@ The Real-Time Indian Sign Language (ISL) to Text and Speech Translator is an AI-
 
 📡 Web and Mobile Accessibility for a seamless user experience
 
-![WhatsApp Image 2025-02-19 at 22 44 14_b28c0e5f](https://github.com/user-attachments/assets/aa78314b-d8d5-4824-885b-278e09821af7)
+![WhatsApp Image 2025-02-19 at 22 50 26_8e50ebdc](https://github.com/user-attachments/assets/a77e07f2-b7f8-4b5f-9da8-2856d21d0caf)
 
 
 ![image](https://github.com/user-attachments/assets/b9cb7230-7a2d-485e-8210-dc579f0529e1)
